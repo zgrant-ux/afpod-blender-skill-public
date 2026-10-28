@@ -1,0 +1,7 @@
+renders*/
+out/
+sfx/
+*.otf
+*.pdf
+src/page*.png
+.DS_Store
